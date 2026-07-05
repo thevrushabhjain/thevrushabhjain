@@ -32,9 +32,12 @@ Core = ["Python", "SQL", "Machine Learning", "Deep Learning"]
 
 ## Featured Projects
 
-**FinSage — AI Financial Intelligence Platform**  
+**FinSage — AI Financial Intelligence Platform** 
+
 **RAG based financial assistant with vector search, market data integration and portfolio intelligence.**
+
 **AI Document Intelligence System**  
+
 **OCR + LLM powered document understanding system with structured data extraction.**
 
 ---
