@@ -1,4 +1,10 @@
-<img src="./banner.png" width="100%" />
+<p align="center">
+  <img 
+    src="./assets/banner.png" 
+    width="100%"
+    height="350px"
+  />
+</p>
 
 <br>
 
